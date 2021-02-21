@@ -10,7 +10,7 @@ reset=`tput sgr0`
 echo ${blu}${bold}
 echo " _______________________________________"
 echo "< iOS Phone Setup                       >"
-echo "<                  - Abhilash Nigam >"
+echo "<                  - Ashish Kukreti >"
 echo " ---------------------------------------"
 echo " \\"
 echo "  \\"
